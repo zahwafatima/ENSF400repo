@@ -1727,7 +1727,7 @@
                     "childAction": "",
                     "delay": "1",
                     "descr": "",
-                    "dn": "topology/pod-1/node-103/sys/phys-[eth1/100]",
+                    "dn": ""topology/pod-1/node-103"/sys/phys-[eth1/100]",
                     "dot1qEtherType": "0x8100",
                     "ethpmCfgFailedBmp": "",
                     "ethpmCfgFailedTs": "00:00:00:00.000",
