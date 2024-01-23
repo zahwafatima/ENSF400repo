@@ -5,7 +5,7 @@
             "l1PhysIf": {
                 "attributes": {
                     "adminSt": "up",
-                    "autoNeg": "on",
+                    "[autoNeg]": "on",
                     "brkoutMap": "none",
                     "bw": "0",
                     "childAction": "",
